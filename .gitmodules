@@ -1,0 +1,3 @@
+[submodule "CoModule"]
+	path = CoModule
+	url = ../CoModule.git
